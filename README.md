@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # OpenAI Chatbot Application
 
 A full-stack web application featuring a real-time chatbot powered by OpenAI's API. Users can authenticate, create an account, and have conversations with an AI assistant with chat history persistence.
@@ -622,9 +621,3 @@ For issues or questions:
 - Ensure backend and frontend are running on correct ports
 
 ---
-
-**Last Updated**: November 12, 2025
-=======
-# AI-SaaS-Chat-Application
-🚀 Full-stack AI Chatbot App — Built with React, Node.js, TypeScript, and MongoDB. Features secure JWT authentication, real-time AI chat via OpenRouter API, and saved chat history with a sleek Material-UI dark theme.
->>>>>>> bc6119329e4c25b811f4d017389e9d3e3cafccc1
